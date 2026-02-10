@@ -9,8 +9,6 @@ Rename `photo.png` to `photo.jpg` and the file is converted.
 
 There’s no app window, import step, or export step. Your filesystem is the interface.
 
----
-
 ## Installation
 
 1. Download the latest `.dmg` from the Releases page
@@ -20,8 +18,6 @@ There’s no app window, import step, or export step. Your filesystem is the int
 
 After that it lives in the menu bar.
 
----
-
 ## First run
 
 On first launch, Transmogrify will ask which folders it’s allowed to watch.
@@ -30,8 +26,6 @@ Only files inside those folders are touched.
 You can add or remove folders later from the menu bar.
 
 Nothing is uploaded anywhere. All conversion happens locally.
-
----
 
 ## Troubleshooting
 
@@ -55,21 +49,15 @@ Nothing is uploaded anywhere. All conversion happens locally.
 - Open the menu bar icon
 - Use Undo or Conversion History to restore the original file
 
----
-
 ## About this build
 
 This repository hosts a direct-download build for people who don’t want the Mac App Store.
 
 There’s also a Mac App Store version if you prefer sandboxing and automatic updates.
 
----
-
 ## More info
 
 https://transmogrifyapp.com
-
----
 
 ## License
 
