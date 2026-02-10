@@ -1,0 +1,23 @@
+Transmogrify
+Copyright © 2026 Andrew Pedley
+
+All rights reserved.
+
+This repository distributes a precompiled binary of the Transmogrify application.
+The application is proprietary software.
+
+Permission is granted to download and run the provided application binary for
+personal or commercial use.
+
+You may not:
+- modify, reverse engineer, decompile, or disassemble the application,
+  except where such restrictions are prohibited by applicable law;
+- redistribute the application or any modified versions of it;
+- create derivative works based on the application.
+
+Third-party components bundled with the application are licensed under their
+respective licenses. See the accompanying NOTICE.txt, LGPL-2.1.txt,
+SOURCE-OFFER.txt, and BUILD-INFO.txt files for details.
+
+This license applies only to the Transmogrify application itself and does not
+override or replace the licenses of any included third-party software.

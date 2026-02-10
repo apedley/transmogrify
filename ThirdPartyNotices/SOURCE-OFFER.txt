@@ -1,0 +1,41 @@
+Source Code Offer
+=================
+
+Transmogrify uses FFmpeg and related libraries licensed under the
+GNU Lesser General Public License version 2.1 (LGPL-2.1).
+
+In accordance with Section 6 of the LGPL-2.1, we provide the complete
+corresponding source code for all LGPL-licensed libraries included
+in this application.
+
+
+How to Obtain Source Code
+-------------------------
+
+Option 1: Download
+  The complete source code archive is available for download at:
+  https://transmogrifyapp.com/source/
+
+Option 2: Written Request
+  You may request a copy of the source code by contacting:
+  admin@transmogrifyapp.com
+
+  This offer is valid for three years from the date of your download
+  of this application. We will provide the source code on a medium
+  customarily used for software interchange, for a charge no more
+  than the cost of physically performing source distribution.
+
+
+What's Included
+---------------
+The source archive contains:
+- FFmpeg 6.1 source code
+- LAME 3.100 source code
+- Opus 1.4 source code
+- libogg 1.3.5 source code
+- libvorbis 1.3.7 source code
+- libvpx 1.14.1 source code
+- Build scripts and configuration used to compile these libraries
+
+No modifications were made to any of these libraries beyond the
+configure options documented in BUILD-INFO.txt.
